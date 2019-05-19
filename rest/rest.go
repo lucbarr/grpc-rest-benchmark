@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/roboime/grpc-rest-benchmark/protos/ssl"
+	"github.com/lucbarr/protos/ssl"
 )
 
 // Start entrypoint

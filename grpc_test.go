@@ -5,9 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/roboime/grpc-rest-benchmark/protos/ssl"
-
-	"github.com/roboime/grpc-rest-benchmark/grpc"
+	"github.com/lucbarr/grpc"
+	"github.com/lucbarr/protos/ssl"
 	g "google.golang.org/grpc"
 )
 

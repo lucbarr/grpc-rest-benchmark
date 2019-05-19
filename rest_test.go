@@ -8,9 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/roboime/grpc-rest-benchmark/protos/ssl"
-
-	"github.com/roboime/grpc-rest-benchmark/rest"
+	"github.com/lucbarr/protos/ssl"
+	"github.com/lucbarr/rest"
 )
 
 func init() {

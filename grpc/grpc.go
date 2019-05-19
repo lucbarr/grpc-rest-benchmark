@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/roboime/grpc-rest-benchmark/protos/ssl"
+	"github.com/lucbarr/protos/ssl"
 	"google.golang.org/grpc"
 )
 
